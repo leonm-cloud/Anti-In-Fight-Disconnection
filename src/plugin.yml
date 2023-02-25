@@ -1,0 +1,5 @@
+name: AntiDecoCombat
+version: 1.0
+description: Plugin empêchant le déco combat.
+author: Enzias
+main: fr.enzias.antidecocombat.AntiDecoCombat
